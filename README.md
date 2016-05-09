@@ -1,6 +1,8 @@
 # pentagonPlot.js
 Lets you create plots in shape of pentagon.
 
+![Example](http://i.imgur.com/Vuq1ZcJ.png)
+
 ### Usage
 Create pentagonPlot object providing a canvas id from your HTML file:
 ```js
